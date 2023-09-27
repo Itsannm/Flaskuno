@@ -1,5 +1,5 @@
-from run import app, db  # Import the Flask app and SQLAlchemy instance
-from models import Restaurant, Pizza, RestaurantPizza  # Import your SQLAlchemy models
+from app.run import app, db  # Import the Flask app and SQLAlchemy instance
+from app.models import Restaurant, Pizza, RestaurantPizza  # Import your SQLAlchemy models
 
 def create_sample_data():
     with app.app_context():

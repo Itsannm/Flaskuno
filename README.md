@@ -19,7 +19,7 @@ This is a Python Flask application for managing a pizza restaurant. The applicat
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip.
 
     ```
-    cd pizza-restaurant-management
+    cd Flaskuno
     pip install -r requirements.txt
     ```
 
