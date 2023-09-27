@@ -1,5 +1,6 @@
 # Pizza Restaurant Management System
-Restaurant flask api code challenge
+Restaurant Flask API
+https://pizza-api-umgi.onrender.com/
 
 This is a Python Flask application for managing a pizza restaurant. The application allows you to create, read, update, and delete restaurants and pizzas. It also allows you to associate pizzas with restaurants and specify their prices. Below, you'll find instructions on how to set up and use this application.
 
